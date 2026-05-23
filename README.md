@@ -4,9 +4,7 @@
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardopertri05@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
