@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
-<p align="center">Computer Science student and frontend-focused developer, currently learning and exploring backend technologies.  
+<p>Computer Science student and frontend-focused developer, currently learning and exploring backend technologies.  
 I build modern and practical projects using different programming languages and frameworks, with a strong interest in web development, UI/UX, APIs, and scalable applications. I enjoy turning ideas into real products, learning through hands-on experience, and constantly improving my skills as a developer.</p>
 
 # 🌐 Socials:
